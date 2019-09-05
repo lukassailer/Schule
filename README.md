@@ -6,3 +6,4 @@ Es ist also zu beachten, dass Teile hier gegeben waren.
 
 Das Magic Mirror Projekt ist über längere Zeit von mir und einem Partner selbst gestaltet worden (inklusive Bau des Spiegels).
 Jeder von uns hat etwas über 20 Stunden dazu beigetragen.
+Das Projekt wurde mit 15 Punkten bewertet.
